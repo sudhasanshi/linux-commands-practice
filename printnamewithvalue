@@ -1,1 +1,4 @@
-
+#!/bin/bash
+echo "enter the name"
+read a
+echo "my name is $a"
